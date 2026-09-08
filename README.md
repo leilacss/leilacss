@@ -68,9 +68,9 @@ const leila = {
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=leila&show_icons=true&theme=swift&bg_color=fff0f6&border_color=ffb3c6&title_color=ff6b9d&icon_color=ff9eb5&text_color=555&hide_border=false&rank_icon=github" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=leilacss&show_icons=true&theme=swift&bg_color=fff0f6&border_color=ffb3c6&title_color=ff6b9d&icon_color=ff9eb5&text_color=555&hide_border=false&rank_icon=github" />
 &nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leila&layout=compact&theme=swift&bg_color=fff0f6&border_color=ffb3c6&title_color=ff6b9d&text_color=555" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leilacss&layout=compact&theme=swift&bg_color=fff0f6&border_color=ffb3c6&title_color=ff6b9d&text_color=555" />
 
 </div>
 
