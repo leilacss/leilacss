@@ -19,8 +19,8 @@
 ```ts
 const leila = {
   role:     "Fullstack Developer",
-  location: "somewhere with good coffee ☕",
-  loves:    ["clean UIs", "smart APIs", "dark mode"],
+  location: "somewhere in a garden",
+  loves:    ["clean UIs", "smart APIs", "Pinky"],
   building: "something cute and scalable",
   mood:     "always in flow state",
 };
